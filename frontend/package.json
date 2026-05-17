@@ -30,7 +30,7 @@
     "redux-i18n": "^1.5.26",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
